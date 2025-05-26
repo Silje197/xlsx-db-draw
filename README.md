@@ -28,7 +28,7 @@ sns.set_palette("pastel")
 
 Seaborn有六种matplotlib调色板的变体：`deep`，`muted`，`pastel`，`bright`，`dark`，`colorblind`。
 
-attachment:2f1e85e4-26d0-46af-a90b-73b2d2b0bf1b:image.png
+![attachment:2f1e85e4-26d0-46af-a90b-73b2d2b0bf1b:image.png](https://pica.zhimg.com/v2-6e9db10ef2f01276f62d56839822cfb0_1440w.jpg)
 
 ### 高级配色（自定义）
 
